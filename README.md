@@ -1,4 +1,4 @@
-# WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS
+# <p align="center">WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS</p> 
 
 # *Hello guys , I am again here with the new article .*
 ## -->> In this Article you will see about Ansible and how Industries are using Ansible to solve the challenges.
