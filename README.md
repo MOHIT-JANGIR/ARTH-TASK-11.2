@@ -1,5 +1,7 @@
 # <p align="center">-->> WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS<<--</p> 
 
+![image](https://user-images.githubusercontent.com/61896468/100611450-5e1b5700-3337-11eb-9ae0-ed18af0e102c.png)
+
 
 # *Hello guys , I am again here with the new article .*
 ## -->> In this Article you will see about Ansible and how Industries are using Ansible to solve the challenges.
