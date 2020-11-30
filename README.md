@@ -22,6 +22,7 @@
 Set up the various servers you need in your infrastructure.
 # ✔Configuration Management : 
 ![image](https://user-images.githubusercontent.com/61896468/100609471-0c250200-3334-11eb-94a5-7274f5e69a4c.png)
+![image](https://user-images.githubusercontent.com/61896468/100609599-48586280-3334-11eb-84d9-35301588ed51.png)
 
 
 ## Change the configuration of an application, OS, or device; start and stop services; install or update applications; implement a security policy; or perform a wide variety of other configuration tasks.
