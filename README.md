@@ -21,11 +21,12 @@
 ![image](https://user-images.githubusercontent.com/61896468/100606426-6bccde80-332f-11eb-8bd3-2f7b1b69d016.png)
 Set up the various servers you need in your infrastructure.
 # ✔Configuration Management : 
-![image](https://user-images.githubusercontent.com/61896468/100609471-0c250200-3334-11eb-94a5-7274f5e69a4c.png)
+
 ![image](https://user-images.githubusercontent.com/61896468/100609599-48586280-3334-11eb-84d9-35301588ed51.png)
 
-
+![image](https://user-images.githubusercontent.com/61896468/100609471-0c250200-3334-11eb-94a5-7274f5e69a4c.png)
 ## Change the configuration of an application, OS, or device; start and stop services; install or update applications; implement a security policy; or perform a wide variety of other configuration tasks.
+
 # ✔Application Deployment : 
 ![image](https://user-images.githubusercontent.com/61896468/100606553-a0409a80-332f-11eb-838c-575de4511b21.png)
 
