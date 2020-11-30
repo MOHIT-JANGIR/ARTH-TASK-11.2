@@ -3,6 +3,8 @@
 
 # <p align="center">-->> WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS<<--</p> 
 
+![image](https://user-images.githubusercontent.com/61896468/100612063-54deba00-3338-11eb-9df0-4f1c235c5031.png)
+
 ![image](https://user-images.githubusercontent.com/61896468/100611866-04675c80-3338-11eb-96d2-2e1ca3f6e965.png)
 
 
