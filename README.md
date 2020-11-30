@@ -57,5 +57,5 @@
 # -->> Speed IT Transformation , Efficient Operational Model , Improve Speed and Agility , Faster Adoption
 ## ``Similarly there are lot of companies which are using Ansible to automate the things..``
 # Summary :
-# -->> Ansible is tool or a software which is used to automate the stuffs like Provisioning , Configuration Management , Application Deployment , Security Automation etc. and It is using a declarative language/approach where we have only tell what we want , we don’t need to know the cmnd for that because behind the scene Ansible use their modules do the these things and has a ability to automate the things for us.
+## ```-->> Ansible is tool or a software which is used to automate the stuffs like Provisioning , Configuration Management , Application Deployment , Security Automation etc. and It is using a declarative language/approach where we have only tell what we want , we don’t need to know the cmnd for that because behind the scene Ansible use their modules do the these things and has a ability to automate the things for us.```
 # *Thanku for Reading this 🤗 !!!
