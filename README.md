@@ -1,6 +1,8 @@
+![image](https://user-images.githubusercontent.com/61896468/100611450-5e1b5700-3337-11eb-9ae0-ed18af0e102c.png)
+
+
 # <p align="center">-->> WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS<<--</p> 
 
-![image](https://user-images.githubusercontent.com/61896468/100611450-5e1b5700-3337-11eb-9ae0-ed18af0e102c.png)
 
 
 # *Hello guys , I am again here with the new article .*
@@ -63,4 +65,3 @@
 ## ```-->> Ansible is tool or a software which is used to automate the stuffs like Provisioning , Configuration Management , Application Deployment , Security Automation etc. and It is using a declarative language/approach where we have only tell what we want , we don’t need to know the cmnd for that because behind the scene Ansible use their modules do the these things and has a ability to automate the things for us.```
 # *Thanku for Reading this 🤗 !!!
 ![image](https://user-images.githubusercontent.com/61896468/100611247-0f6dbd00-3337-11eb-9505-b95a3e4d6dcb.png)
-
