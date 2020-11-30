@@ -1,7 +1,7 @@
 # WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS
 
 # *Hello guys , I am again here with the new article .*
-## In this Article you will see about Ansible and how Industries are using Ansible to solve the challenges.
+## -->> In this Article you will see about Ansible and how Industries are using Ansible to solve the challenges.
 ## ` Now Let’s see`
 # What is Ansible ?
 ![image](https://user-images.githubusercontent.com/61896468/100605580-24921e00-332e-11eb-8889-465e2e37bb11.png)
@@ -18,9 +18,11 @@
 ## ``We can use Ansible to automate different types of tasks:``
 
 # ✔ Provisioning :
+![image](https://user-images.githubusercontent.com/61896468/100606426-6bccde80-332f-11eb-8bd3-2f7b1b69d016.png)
 Set up the various servers you need in your infrastructure.
 # ✔Configuration Management : 
-![image](https://user-images.githubusercontent.com/61896468/100606426-6bccde80-332f-11eb-8bd3-2f7b1b69d016.png)
+![image](https://user-images.githubusercontent.com/61896468/100609471-0c250200-3334-11eb-94a5-7274f5e69a4c.png)
+
 
 ## Change the configuration of an application, OS, or device; start and stop services; install or update applications; implement a security policy; or perform a wide variety of other configuration tasks.
 # ✔Application Deployment : 
