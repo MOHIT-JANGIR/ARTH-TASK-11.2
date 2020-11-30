@@ -1,1 +1,32 @@
-# ARTH-TASK-11.2
+# WHAT IS ANSIBLE AND HOW INDUSTRIES ARE USING THIS
+
+# *Hello guys , I am again here with the new article .*
+In this Article you will see about Ansible and how Industries are using Ansible to solve the challenges.
+Now Let’s see
+What is Ansible ?
+![image](https://user-images.githubusercontent.com/61896468/100605580-24921e00-332e-11eb-8889-465e2e37bb11.png)
+
+Ansible is an open-source IT automation engine, which can remove drudgery from your work life, and will also dramatically improve the scalability, consistency, and reliability of your IT environment.
+Ansible can automate IT environments whether they are hosted on traditional bare metal servers, virtualization platforms, or in the cloud. It can also automate the configuration of a wide range of systems and devices such as databases, storage devices, networks, firewalls, and many others.
+The best part is that you don’t even need to know the commands used to accomplish a particular task. You just need to specify what state you want the system to be in and Ansible will take care of it. Behind the scene ansible use some intelligence modules to make the easy for us.
+Now Let’s see what can Ansible Automate for us..
+We can use Ansible to automate different types of tasks:
+✔ Provisioning :
+Set up the various servers you need in your infrastructure.
+✔Configuration Management : Change the configuration of an application, OS, or device; start and stop services; install or update applications; implement a security policy; or perform a wide variety of other configuration tasks.
+✔Application Deployment : Make DevOps easier by automating the deployment of internally developed applications to your production systems.
+✔Security Automation :
+When you define your security policy in Ansible, scanning and remediation of site-wide security policy can be integrated into other automated processes and instead of being an afterthought, it’ll be integral in everything that is deployed.
+Now let’s see how companies are using Ansible to solve their use cases -
+AWS
+AWS are using ansible to manage their services including : CloudFormation , CloudTrial , CloudWatch , DynamoDB , Elastic Block Storage(EBS) , Lambda , Route53 , Security groups , Elastic IPs(EIP)
+Microsoft Azure
+We all know about Microsoft Azure very well and Ansible is helping this public cloud to automate things. Ansible’s library of Azure modules makes it easy to provision instances, networks, and complete Azure infrastructure whenever you need, and in any region you require. For example, the same simple Playbook language you use for application deployment and on-prem automation also provisions your Azure infrastructure, applying the correct configuration. So Azure deploys once and can use anywhere through the Ansible automation. Azure also uses this tool to scale its services and Ansible has modules for many different Azure capabilities, including.
+Virtual Machine , Virtual Networks , Security Groups , Resource Groups
+CISCO
+As customers embrace the DevOps model to accelerate application deployment and achieve higher efficiency in operating their data centers, the infrastructure needs to change and respond faster than ever to business needs. These changes can help you achieve an agile operational model by improving automation, innovation, and consistency. Cisco is providing the some best services with the help of Ansible which are the following :
+Speed IT Transformation , Efficient Operational Model , Improve Speed and Agility , Faster Adoption
+Similarly there are lot of companies which are using Ansible to automate the things..
+Summary :
+Ansible is tool or a software which is used to automate the stuffs like Provisioning , Configuration Management , Application Deployment , Security Automation etc. and It is using a declarative language/approach where we have only tell what we want , we don’t need to know the cmnd for that because behind the scene Ansible use their modules do the these things and has a ability to automate the things for us.
+Thanku for Reading this 🤗 !!
